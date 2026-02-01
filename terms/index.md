@@ -37,28 +37,41 @@ You control what you enter into the App. **Do not enter sensitive personal infor
 ### 3.3 Accuracy limitations
 AI outputs may be incorrect, incomplete, outdated, or misleading. You agree not to use AI outputs for high-stakes decisions without independent verification.
 
+### 3.4 Acceptable use of AI features
+You agree not to use AI features to generate, request, or submit content that is unlawful, harmful, infringing, deceptive, or that violates the rights of others. We may restrict or disable AI access if we reasonably believe AI features are being abused, used unlawfully, or used in a way that creates security or safety risks.
+
 ---
 
 ## 4) Subscription terms (auto-renewing; managed by Apple)
-Bounty Budget uses subscriptions for access to the App.
+Bounty Budget uses subscriptions for access to certain App features and/or “Pro” functionality.
 
 ### 4.1 Free trial
-If offered, a free trial lasts **7 days** (unless otherwise shown in the App Store). Trial terms and availability may vary by region and may change.
+If offered, a free trial lasts **7 days** (unless otherwise shown in the App Store or purchase flow). Trial availability, duration, and eligibility may vary by region and may change.
 
 ### 4.2 Billing and renewal
-Subscriptions are processed by **Apple App Store**. Pricing and billing period (monthly/annual) are shown in the purchase flow.
+Subscriptions are processed by **Apple App Store**. Pricing and billing period (monthly/annual) are shown in the purchase flow and may vary by region/currency.
 
-Unless you cancel at least 24 hours before the end of the current period, your subscription will **auto-renew**, and your account will be charged through Apple.
+Unless you cancel at least 24 hours before the end of the current period, your subscription will **auto-renew**, and your Apple ID account will be charged through Apple.
+
+If you start a free trial, **Apple may automatically convert it to a paid subscription** unless you cancel before the trial ends.
 
 ### 4.3 Managing and canceling
 You can manage or cancel your subscription in iOS:
 **Settings → Apple ID → Subscriptions**  
-(Or via the App Store subscriptions page.)
+(or via the App Store subscriptions page).
 
-### 4.4 After trial / if you don’t subscribe
-If you do not subscribe after the trial ends, access may be restricted. Your data remains on your device, and you can subscribe later to restore access.
+Deleting the App does not automatically cancel your subscription.
 
-### 4.5 Refunds
+### 4.4 Restoring purchases
+If you reinstall the App or switch devices, you can restore access using Apple’s restore mechanism (e.g., “Restore Purchases”) as available in the App.
+
+### 4.5 After trial / if you don’t subscribe
+If you do not subscribe after the trial ends, access to subscription features may be restricted. Your data remains on your device, and you can subscribe later to restore access.
+
+### 4.6 Price changes and plan changes
+Apple may change prices, taxes, or billing terms, or require you to confirm acceptance of certain changes. We may modify subscription plans or features from time to time (for example, adding, removing, or changing features), but we will aim to present updated information in the App and/or App Store listing.
+
+### 4.7 Refunds
 Refund requests are handled by Apple under App Store policies. We do not provide refunds directly.
 
 ---
@@ -78,12 +91,12 @@ Third-party services may have their own terms and policies. Your use of those se
 ## 7) Acceptable use
 You agree not to:
 - Use the App in violation of any law or regulation
-- Attempt to reverse engineer, decompile, or bypass security measures
+- Attempt to reverse engineer, decompile, or bypass security measures (except to the extent permitted by law)
 - Abuse, interfere with, or overload the App or related services
 - Use the App or AI features to generate or submit unlawful, harmful, or infringing content
 - Misrepresent the App’s outputs as professional advice
 
-We may suspend or terminate access if we reasonably believe you have violated these Terms.
+We may suspend or terminate access (including AI features or subscription entitlements) if we reasonably believe you have violated these Terms, or if required by law.
 
 ---
 
@@ -99,14 +112,19 @@ If you provide feedback (e.g., mark insights helpful/unhelpful), you grant us a 
 
 ---
 
-## 10) Disclaimers
+## 10) Data loss and device responsibility
+The App stores your financial data primarily on your device. You are responsible for maintaining access to your device and for any device-level backups you choose to enable. We are not responsible for loss of data due to device loss, damage, deletion, OS updates, corruption, or uninstall/reinstall events, except to the extent required by law.
+
+---
+
+## 11) Disclaimers
 THE APP IS PROVIDED “AS IS” AND “AS AVAILABLE.” TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 
 We do not guarantee that the App will be error-free, uninterrupted, or that outputs (including AI outputs) will be accurate.
 
 ---
 
-## 11) Limitation of liability
+## 12) Limitation of liability
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT WILL WE BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, DATA, OR GOODWILL, ARISING OUT OF OR RELATED TO YOUR USE OF THE APP.
 
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, OUR TOTAL LIABILITY FOR ANY CLAIM ARISING OUT OF OR RELATED TO THE APP WILL NOT EXCEED **THE GREATER OF (A) USD $50 OR (B) THE AMOUNT YOU PAID TO US FOR THE APP IN THE 12 MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM**.
@@ -115,7 +133,7 @@ Some jurisdictions do not allow certain limitations, so some of the above may no
 
 ---
 
-## 12) Indemnification
+## 13) Indemnification
 You agree to defend, indemnify, and hold harmless [DEVELOPER_NAME] from and against claims, damages, liabilities, losses, and expenses (including reasonable attorneys’ fees) arising from or related to:
 - your use of the App,
 - your User Content,
@@ -124,26 +142,26 @@ You agree to defend, indemnify, and hold harmless [DEVELOPER_NAME] from and agai
 
 ---
 
-## 13) Termination
+## 14) Termination
 You may stop using the App at any time by uninstalling it.
 
-We may suspend or terminate your access to the App if you violate these Terms or if required by law. Sections that by their nature should survive termination will survive (including: disclaimers, limitation of liability, indemnification, and intellectual property).
+We may suspend or terminate your access to the App if you violate these Terms or if required by law. Sections that by their nature should survive termination will survive (including: disclaimers, limitation of liability, indemnification, intellectual property, and governing law).
 
 ---
 
-## 14) Changes to these Terms
+## 15) Changes to these Terms
 We may update these Terms from time to time. We will post the updated version on this page and update the effective date. If you continue using the App after changes become effective, you agree to the updated Terms.
 
 ---
 
-## 15) Governing law and venue
+## 16) Governing law and venue
 These Terms are governed by the laws of **[GOVERNING_LAW_JURISDICTION]**, without regard to conflict-of-law rules.
 
 Any dispute arising out of or relating to these Terms or the App will be brought exclusively in the courts located in **[VENUE_LOCATION]**, unless applicable law provides otherwise.
 
 ---
 
-## 16) Apple-specific terms (required notice)
+## 17) Apple-specific terms (required notice)
 If you downloaded the App from the Apple App Store, you acknowledge that:
 - These Terms are between you and us, not Apple.
 - Apple has no obligation to provide maintenance/support for the App.
@@ -153,5 +171,5 @@ If you downloaded the App from the Apple App Store, you acknowledge that:
 
 ---
 
-## 17) Contact
+## 18) Contact
 Questions about these Terms: **[SUPPORT_EMAIL]**
