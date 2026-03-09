@@ -1,6 +1,6 @@
 # Privacy Policy — Bounty Budget
 
-**Effective date:** March 1, 2026  
+**Effective date:** March 5, 2026  
 **App name:** Bounty Budget  
 **Developer:** Bounty LLC  
 **Contact email:** support@bountyapps.com
