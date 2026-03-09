@@ -1,9 +1,9 @@
 # Privacy Policy — Bounty Budget
 
-**Effective date:** [EFFECTIVE_DATE]  
+**Effective date:** March 1, 2026  
 **App name:** Bounty Budget  
-**Developer:** [DEVELOPER_NAME]  
-**Contact email:** [SUPPORT_EMAIL]
+**Developer:** Bounty LLC  
+**Contact email:** support@bountyapps.com
 
 This Privacy Policy explains how Bounty Budget (“the App”, “we”, “us”) collects, uses, and shares information when you use the App.
 
@@ -190,6 +190,5 @@ We may update this Privacy Policy. We will post the updated version on this page
 ---
 
 ## 15) Contact
-For privacy questions, contact: **[SUPPORT_EMAIL]**  
-Developer: **[DEVELOPER_NAME]**  
-(Optional) Jurisdiction/Location: **[COUNTRY/STATE]**
+For privacy questions, contact: **[support@bountyapps.com]**  
+Developer: **[Bounty LLC]**  

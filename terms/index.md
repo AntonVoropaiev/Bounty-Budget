@@ -1,9 +1,9 @@
 # Terms of Use — Bounty Budget
 
-**Effective date:** [EFFECTIVE_DATE]  
+**Effective date:** March 5, 2026 
 **App name:** Bounty Budget  
-**Developer:** [DEVELOPER_NAME] (“we”, “us”)  
-**Contact:** [SUPPORT_EMAIL]
+**Developer:** Bounty LLC (“we”, “us”)  
+**Contact:** support@bountyapps.com
 
 These Terms of Use (“Terms”) govern your use of the Bounty Budget mobile application (the “App”). By downloading, accessing, or using the App, you agree to these Terms.
 
@@ -172,4 +172,4 @@ If you downloaded the App from the Apple App Store, you acknowledge that:
 ---
 
 ## 18) Contact
-Questions about these Terms: **[SUPPORT_EMAIL]**
+Questions about these Terms: **[support@bountyapps.com]**
