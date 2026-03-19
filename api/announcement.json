@@ -1,9 +1,9 @@
 {
     "id": "welcome-2026",
     "title": "Welcome to Bounty Budget!",
-    "message": "We're working hard on new features. Stay tuned for AI-powered insights and more! Your feedback in Settings is highly appreciated. Test!",
+    "message": "We're working hard on new features. Stay tuned for AI-powered insights and more! Your feedback in Settings is highly appreciated.",
     "type": "devNote",
     "icon": "hammer.fill",
     "startDate": "2026-03-01",
-    "endDate": "2026-03-10"
+    "endDate": "2026-03-20"
 }
