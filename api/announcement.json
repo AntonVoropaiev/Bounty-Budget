@@ -1,9 +1,9 @@
 {
     "id": "welcome-2026",
     "title": "Welcome to Bounty Budget!",
-    "message": "We're working hard on new features. Stay tuned for AI-powered insights and more! Your feedback in Settings is highly appreciated!",
+    "message": "Welcome to Bounty Budget!\nWe are making money tracking simple and actually useful.\nNew features, better stats, and more languages are coming soon.\nYour feedback means a lot - share it anytime in Settings.\nTrack less. Know more.",
     "type": "devNote",
     "icon": "hammer.fill",
-    "startDate": "2026-04-02",
-    "endDate": "2026-04-05"
+    "startDate": "2026-04-24",
+    "endDate": "2026-04-28"
 }
