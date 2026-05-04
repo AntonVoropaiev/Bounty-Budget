@@ -1,9 +1,9 @@
 {
-    "id": "welcome-2026-april2",
-    "title": "Welcome to Bounty Budget!",
-    "message": "We're glad you are here! \nWe're actively improving the app and working on new features. Your feedback means a lot - feel free to share it anytime in Settings! Stay tuned!",
+    "id": "welcome-2026-may-4th",
+    "title": "Quick heads up on budgets",
+    "message": "We've noticed a minor issue that may affect budget calculations for some users. We're already working on a fix and will roll out an update in the next few days. Thanks for your patience!",
     "type": "devNote",
     "icon": "",
-    "startDate": "",
-    "endDate": ""
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-07"
 }
